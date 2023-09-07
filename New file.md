@@ -1,1 +1,2 @@
-
+# Test strategy
+- check list
