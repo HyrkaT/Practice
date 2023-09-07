@@ -1,2 +1,0 @@
-# Test strategy
-- check list
